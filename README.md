@@ -3,7 +3,7 @@
 ## Sumário
 
 - [Conceito](#conceito)
-- [Configuração: Key Vault](#configuração-key:vault)
+- [Configuração: Key Vault](#configuração-key-vault)
 
 ## Conceito
 
