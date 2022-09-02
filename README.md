@@ -67,8 +67,8 @@
 <img width="1292" alt="Captura de tela 2022-09-02 112315" src="https://user-images.githubusercontent.com/48317736/188202319-a4f81b7e-1661-4023-996c-5bf9388d6eff.png">
 
 23. Configurar usando o modelo ->  Gerenciamento de Segredos e Chaves
-24. Permissões de chave -> Ex: 0
-25. Permissões do segredo -> Ex: 2 -> Obter e Listar
+24. Permissões de chave -> Ex: 12
+25. Permissões do segredo -> Ex: 7 
 26. Permissões de certiifcado -> Ex: 0
 27. Selecionar a entidade de segurança -> Ex: Euller Henrique Bandeira Oliveira
 28. Clieque em Adicionar
