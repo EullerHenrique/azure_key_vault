@@ -7,7 +7,25 @@
 
 ## Conceito
 
-"O Azure Key Vault é um serviço de nuvem para armazenar e acessar segredos de maneira segura. Um segredo é qualquer coisa a qual você queira controlar rigidamente o acesso, como chaves de API, senhas, certificados ou chaves criptográficas. O serviço do Key Vault oferece suporte a dois tipos de contêineres: cofres e pools HSM (módulo de segurança de hardware) gerenciados. Os cofres oferecem suporte ao armazenamento de chaves, segredos e certificados apoiados por software e HSM. Os pools HSM gerenciados oferecem suporte apenas a chaves apoiadas por HSM." - Fonte: https://docs.microsoft.com/pt-br/azure/key-vault/general/basic-concepts
+"O Azure Key Vault é um serviço de nuvem para armazenar e acessar segredos de maneira segura. Um segredo é qualquer coisa a qual você queira controlar rigidamente o acesso, como chaves de API, senhas, certificados ou chaves criptográficas. O serviço do Key Vault oferece suporte a dois tipos de contêineres: cofres e pools HSM (módulo de segurança de hardware) gerenciados. Os cofres oferecem suporte ao armazenamento de chaves, segredos e certificados apoiados por software e HSM. Os pools HSM gerenciados oferecem suporte apenas a chaves apoiadas por HSM.
+
+Proprietário do cofre: pode criar um cofre de chaves e obter acesso e controle totais sobre ele. O proprietário do cofre também pode configurar a auditoria para registrar quem acessa os segredos e as chaves. Os administradores podem controlar o ciclo de vida da chave. Eles podem reverter para uma nova versão da chave, fazer o backup e tarefas relacionadas.
+
+Consumidor do cofre: pode executar ações nos ativos dentro do cofre de chaves quando seu proprietário concede acesso ao cliente. As ações disponíveis dependem das permissões concedidas.
+
+Recurso: trata-se de um item gerenciável que está disponível por meio do Azure. Alguns exemplos comuns são máquina virtual, conta de armazenamento, aplicativo Web, banco de dados e rede virtual, mas há muito mais.
+
+Grupo de recursos: trata-se de um contêiner que mantém os recursos relacionados de uma solução do Azure. O grupo de recursos pode incluir todos os recursos para a solução ou apenas os recursos que você deseja gerenciar como um grupo. Você decide como deseja alocar recursos para grupos de recursos com base no que faz mais sentido para sua organização.
+
+Entidade de segurança: uma entidade de segurança do Azure é uma identidade de segurança usada por aplicativos criados pelo usuário, serviços e ferramentas de automação para acessar recursos específicos do Azure. Pense nela como uma “identidade do usuário” (nome de usuário e senha ou certificado) com uma função específica e permissões rigidamente controladas. Uma entidade de segurança realiza somente ações específicas, ao contrário de uma identidade de usuário geral. Ela melhora a segurança se você conceder apenas o nível mínimo de permissão necessário para executar as tarefas de gerenciamento. Uma entidade de segurança usada com um aplicativo ou serviço é chamada de entidade de serviço.
+
+Azure Active Directory (Azure AD): o Azure AD é o serviço do Active Directory de um locatário. Cada diretório tem um ou mais domínios. Um diretório pode ter várias assinaturas associadas a ele, mas apenas um locatário.
+
+ID do locatário do Azure: uma ID de locatário é uma maneira exclusiva para identificar uma instância do Azure AD dentro de uma assinatura do Azure.
+
+Identidades gerenciadas: o Azure Key Vault oferece uma maneira de armazenar com segurança as credenciais e outras chaves e segredos, mas seu código precisa ser autenticado para o Key Vault recuperá-los. Usar a identidade gerenciada torna a solução desse problema mais simples, fornecendo aos serviços do Azure uma identidade gerenciada automaticamente no Microsoft Azure Active Directory. Você pode usar essa identidade para autenticar o Key Vault ou qualquer serviço que dê suporte à autenticação do Azure AD sem ter as credenciais no código. Para mais informações, veja a imagem abaixo e a visão geral de identidades gerenciadas para recursos do Azure.
+
+" - Fonte: https://docs.microsoft.com/pt-br/azure/key-vault/general/basic-concepts
 
 "O Azure Key Vault ajuda a resolver os problemas a seguir:
 
@@ -41,7 +59,11 @@ Transmita para um hub de eventos.
 Enviar logs para os logs do Azure Monitor.
 Você tem controle sobre os logs e pode protegê-los restringindo o acesso, e também pode excluir logs que não são mais necessários.
 
-" 
+Administração simplificada de segredos do aplicativo
+
+Os Azure Key Vaults permitem que você separe os segredos do aplicativo. Os aplicativos podem acessar apenas o cofre que eles têm permissão para acessar e podem estar limitados a executar operações específicas. Você pode criar um Azure Key Vault por aplicativo e restringir os segredos armazenados em um Key Vault para um aplicativo e uma equipe de desenvolvedores específicos.
+
+" - Fonte: https://docs.microsoft.com/pt-br/azure/key-vault/general/overview
 
 ## Configuração
 
