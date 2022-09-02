@@ -96,8 +96,9 @@
 
 <img width="836" alt="Captura de tela 2022-09-02 142030" src="https://user-images.githubusercontent.com/48317736/188210905-b51c94bd-16b5-4682-a117-08f4e5d984f1.png">
 <img width="526" alt="Captura de tela 2022-09-02 142248" src="https://user-images.githubusercontent.com/48317736/188210913-0c82e171-c2e1-412b-b067-c223a
-<img width="451" alt="Captura de tela 2022-09-02 142313" src="https://user-images.githubusercontent.com/48317736/188210935-fb9c835a-1e76-481d-8d63-ddbad34d5e55.png">
-b510098.png">
+<img width="527" alt="Captura de tela 2022-09-02 142517" src="https://user-images.githubusercontent.com/48317736/188211429-3851e1bd-da1c-4cec-83a3-63d02a9f6588.png">
+<img width="452" alt="Captura de tela 2022-09-02 142532" src="https://user-images.githubusercontent.com/48317736/188211432-2cb6af05-fffe-4bf3-bb90-44b372cb4282.png">
+
 
 
 
