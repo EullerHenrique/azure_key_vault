@@ -212,10 +212,11 @@
 <img width="491" alt="Captura de tela 2022-09-02 163536" src="https://user-images.githubusercontent.com/48317736/188224779-4a004463-6a18-484f-bde9-a7144725fc31.png">
 
 70. Insira as seguintes informações no arquivo application.properties
-    Endpoint: https://kv-demo-teste.vault.azure.net/
-    Tecent id: 6ca08334-8361-42a5-addb-6bd657abd14e
-    Client id: 51c8e300-fbcd-4658-b5a4-ad34fde06b8b
-    Client Secret: mP88Q~wtOsRwDFfSy7C16BtpVbWYA9GhI5Vgeaql
+    
+    1. Endpoint: https://kv-demo-teste.vault.azure.net/
+    2. Tecent id: 6ca08334-8361-42a5-addb-6bd657abd14e
+    3. Client id: 51c8e300-fbcd-4658-b5a4-ad34fde06b8b
+    4. Client Secret: mP88Q~wtOsRwDFfSy7C16BtpVbWYA9GhI5Vgeaql
 
 71. Crie uma variável no application.properties -> Ex: secret
  secret
