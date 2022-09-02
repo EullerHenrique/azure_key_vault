@@ -221,7 +221,7 @@
 71. Crie uma variável no application.properties -> Ex: secret
  secret
  
-73. Atribua o nome de uma secret criada no keyvault -> Ex: urlBd
+73. Atribua o nome de uma secret criada no key vault -> Ex: urlBd
  secret = ${urlBd}
  
 74. Crie um atributo na classe SecretController.java -> Ex: secret
