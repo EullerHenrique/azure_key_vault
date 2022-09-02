@@ -211,7 +211,25 @@
 
 <img width="491" alt="Captura de tela 2022-09-02 163536" src="https://user-images.githubusercontent.com/48317736/188224779-4a004463-6a18-484f-bde9-a7144725fc31.png">
 
+70. Insira as seguintes informações no arquivo application.properties
+    Endpoint: https://kv-demo-teste.vault.azure.net/
+    Tecent id: 6ca08334-8361-42a5-addb-6bd657abd14e
+    Client id: 51c8e300-fbcd-4658-b5a4-ad34fde06b8b
+    Client Secret: mP88Q~wtOsRwDFfSy7C16BtpVbWYA9GhI5Vgeaql
 
+71. Crie uma variável no application.properties -> Ex: secret
+ secret
+ 
+73. Atribua o nome de uma secret criada no keyvault -> Ex: urlBd
+ secret = ${urlBd}
+ 
+74. Crie um atributo na classe SecretController.java -> Ex: secret
+
+75. Anote o atributo criado com a anotação @Value("${secret}")
+
+76. Digite no navegador/postman localhost:8080/v1/keyvault/secret
+
+77. Resultado -> jdbc:sqlserver://SERVER.database.windows.net:1433;database=DATABASE;
 
 
 
