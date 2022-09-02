@@ -147,14 +147,38 @@
 
 46. Clique em Novo segredo de cliente
 47. Descrição -> Ex: pass-key-dsv
-48. 
+
 <img width="836" alt="Captura de tela 2022-09-02 154101" src="https://user-images.githubusercontent.com/48317736/188217732-f2d81ffa-2c4d-4497-86b9-4fe12de9bfcc.png">
 
 
 <img width="567" alt="Captura de tela 2022-09-02 154136" src="https://user-images.githubusercontent.com/48317736/188217913-5d0c17d8-fd3a-4b03-b07e-f8a04cb72b3a.png">
 
-48. 
+49. Digite Cofres De Chaves na barra de pesquisa e o selecione
 
+<img width="796" alt="Captura de tela 2022-09-02 095445" src="https://user-images.githubusercontent.com/48317736/188150933-8b1f1594-ddff-4ffa-a663-9a8ff964d444.png">
+
+50.Clique em kv-demo-teste
+
+<img width="801" alt="Captura de tela 2022-09-02 154718" src="https://user-images.githubusercontent.com/48317736/188218471-9b99d5f5-8fe4-4cff-a4b3-10cc9ff5fd0f.png">
+
+51. Clique em Políticas de Acesso
+52. Clique em Adicionar Política de Acesso
+
+<img width="1292" alt="Captura de tela 2022-09-02 112315" src="https://user-images.githubusercontent.com/48317736/188202319-a4f81b7e-1661-4023-996c-5bf9388d6eff.png">
+
+53. Configurar usando o modelo ->  Gerenciamento de Segredos e Chaves
+54. Permissões de chave -> Ex: 0
+55. Permissões do segredo -> Ex: 2 -> Obter e Listar  
+56. Permissões de certiifcado -> Ex: 0
+57. Selecionar a entidade de segurança -> app-key-sat-dsv
+58. Clieque em Adicionar
+
+<img width="349" alt="Captura de tela 2022-09-02 155204" src="https://user-images.githubusercontent.com/48317736/188219187-acd03730-c63c-4e2f-b2bd-e26e9c1c10b2.png">
+
+59. Clique em Salvar
+
+<img width="835" alt="Captura de tela 2022-09-02 155228" src="https://user-images.githubusercontent.com/48317736/188219193-470ed9e3-325c-45ba-83b9-2c90602fe881.png">
+<img width="836" alt="Captura de tela 2022-09-02 155305" src="https://user-images.githubusercontent.com/48317736/188219198-699410a5-641c-4f90-b720-bbc8bb9e5bd3.png">
 
 
 
