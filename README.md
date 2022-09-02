@@ -84,4 +84,21 @@
 
 <img width="613" alt="Captura de tela 2022-09-02 141518" src="https://user-images.githubusercontent.com/48317736/188210283-431db8c5-33bf-475f-a4b9-26fdb1cf749c.png">
 
+30. Aperte em Adicionar Atribuição De Função
+
+<img width="743" alt="Captura de tela 2022-09-02 141912" src="https://user-images.githubusercontent.com/48317736/188210845-07f9c28c-e1dc-4501-b455-5f43f2137b0f.png">
+
+31. Aperte em Administrador de Cofre de Chaves
+
+<img width="743" alt="Captura de tela 2022-09-02 141912" src="https://user-images.githubusercontent.com/48317736/188210845-07f9c28c-e1dc-4501-b455-5f43f2137b0f.png">
+
+32. Selecionar membros -> Ex: Euller Henrique Bandeira Oliveira
+
+<img width="836" alt="Captura de tela 2022-09-02 142030" src="https://user-images.githubusercontent.com/48317736/188210905-b51c94bd-16b5-4682-a117-08f4e5d984f1.png">
+<img width="526" alt="Captura de tela 2022-09-02 142248" src="https://user-images.githubusercontent.com/48317736/188210913-0c82e171-c2e1-412b-b067-c223a
+<img width="451" alt="Captura de tela 2022-09-02 142313" src="https://user-images.githubusercontent.com/48317736/188210935-fb9c835a-1e76-481d-8d63-ddbad34d5e55.png">
+b510098.png">
+
+
+
 
