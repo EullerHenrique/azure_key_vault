@@ -146,11 +146,14 @@
 <img width="623" alt="Captura de tela 2022-09-02 153954" src="https://user-images.githubusercontent.com/48317736/188217704-b44437c0-17f7-4f6e-bcce-aa3f3917f069.png">
 
 46. Clique em Novo segredo de cliente
-
+47. Descrição -> Ex: pass-key-dsv
+48. 
 <img width="836" alt="Captura de tela 2022-09-02 154101" src="https://user-images.githubusercontent.com/48317736/188217732-f2d81ffa-2c4d-4497-86b9-4fe12de9bfcc.png">
 
-47.
 
+<img width="567" alt="Captura de tela 2022-09-02 154136" src="https://user-images.githubusercontent.com/48317736/188217913-5d0c17d8-fd3a-4b03-b07e-f8a04cb72b3a.png">
+
+48. 
 
 
 
