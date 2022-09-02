@@ -3,7 +3,7 @@
 ## Sumário
 
 - [Conceito](#conceito)
-- [Configuração](#configuração)
+- [Configuração: Key Vault](#configuração-key:vault)
 
 ## Conceito
 
@@ -65,7 +65,7 @@ Os Azure Key Vaults permitem que você separe os segredos do aplicativo. Os apli
 
 " - Fonte: https://docs.microsoft.com/pt-br/azure/key-vault/general/overview
 
-## Configuração
+## Configuração: Key Vault
 
 1. Acesse https://portal.azure.com/
 
