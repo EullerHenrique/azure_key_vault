@@ -120,6 +120,11 @@
 
 <img width="452" alt="Captura de tela 2022-09-02 142532" src="https://user-images.githubusercontent.com/48317736/188212339-11b7469d-309a-4099-848f-156554296125.png">
 
+39. Digite Azure Active Directory na barra de pesquisa e o selecione
+
+<img width="814" alt="Captura de tela 2022-09-02 152853" src="https://user-images.githubusercontent.com/48317736/188215971-4bc0bc41-ad31-4fc5-b169-3778db840de0.png">
+
+
 
 
 
