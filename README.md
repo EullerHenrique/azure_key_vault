@@ -180,7 +180,29 @@
 <img width="835" alt="Captura de tela 2022-09-02 155228" src="https://user-images.githubusercontent.com/48317736/188219193-470ed9e3-325c-45ba-83b9-2c90602fe881.png">
 <img width="836" alt="Captura de tela 2022-09-02 155305" src="https://user-images.githubusercontent.com/48317736/188219198-699410a5-641c-4f90-b720-bbc8bb9e5bd3.png">
 
+60. Clique em Em Rede
 
+<img width="605" alt="Captura de tela 2022-09-02 155600" src="https://user-images.githubusercontent.com/48317736/188219765-b8f3083f-b5c6-4806-9d53-460dbe59f9db.png">
+
+61. Clique Em Redes Selecionadas
+62. Adicione redes virtuais ou/e os ips dos usuários que poderão consumir os secrets do keyvault
+
+<img width="837" alt="Captura de tela 2022-09-02 155717" src="https://user-images.githubusercontent.com/48317736/188219772-f86ee499-5f11-4eed-aeb5-2df0ad9a1351.png">
+
+63. Clique em Segredos
+
+<img width="959" alt="Captura de tela 2022-09-02 160551" src="https://user-images.githubusercontent.com/48317736/188221149-295d6cd9-476e-4746-b0c8-aaa17275274d.png">
+
+64. Clique em Gerar/Importar
+
+<img width="487" alt="Captura de tela 2022-09-02 160717" src="https://user-images.githubusercontent.com/48317736/188221151-7b07c76d-9f52-48d2-9ed0-fd6058e0005e.png">
+
+65. Nome -> Ex: urlBd
+66. Valor Secreto -> Ex: jdbc:sqlserver://SERVER.database.windows.net:1433;database=DATABASE;
+
+<img width="487" alt="Captura de tela 2022-09-02 160717" src="https://user-images.githubusercontent.com/48317736/188221151-7b07c76d-9f52-48d2-9ed0-fd6058e0005e.png">
+
+<img width="954" alt="Captura de tela 2022-09-02 160923" src="https://user-images.githubusercontent.com/48317736/188221408-f9296877-6084-44c2-afdd-38b6688cd69e.png">
 
 
 
