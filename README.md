@@ -58,151 +58,163 @@
 
 <img width="1072" alt="Captura de tela 2022-09-02 112144" src="https://user-images.githubusercontent.com/48317736/188170918-6a5d1975-273e-4b3b-9de5-8cbd9475dded.png">
 
+22. Anote o endpoint -> URI do cofre: https://kv-demo-teste.vault.azure.net/
+23. Anote o tecent id -> ID do diretório: 6ca08334-8361-42a5-addb-6bd657abd14e
+
 <img width="1459" alt="Captura de tela 2022-09-02 112211" src="https://user-images.githubusercontent.com/48317736/188171023-74ff9228-8973-4506-8828-31543f2f682b.png">
 
-22. Clique em Políticas de Acesso
+24. Clique em Políticas de Acesso
 
-23. Clique em Adicionar Política de Acesso
+25. Clique em Adicionar Política de Acesso
 
 <img width="1292" alt="Captura de tela 2022-09-02 112315" src="https://user-images.githubusercontent.com/48317736/188202319-a4f81b7e-1661-4023-996c-5bf9388d6eff.png">
 
-23. Configurar usando o modelo ->  Gerenciamento de Segredos e Chaves
-24. Permissões de chave -> Ex: 12
-25. Permissões do segredo -> Ex: 7 
-26. Permissões de certiifcado -> Ex: 0
-27. Selecionar a entidade de segurança -> Ex: Euller Henrique Bandeira Oliveira
-28. Clieque em Adicionar
+26. Configurar usando o modelo ->  Gerenciamento de Segredos e Chaves
+27. Permissões de chave -> Ex: 12
+28. Permissões do segredo -> Ex: 7 
+29. Permissões de certiifcado -> Ex: 0
+30. Selecionar a entidade de segurança -> Ex: Euller Henrique Bandeira Oliveira
+31. Clieque em Adicionar
 
 <img width="1458" alt="Captura de tela 2022-09-02 112407" src="https://user-images.githubusercontent.com/48317736/188202317-036835e6-b2a0-4f46-b962-50c742f4593b.png">
 
-28. Clique em Salvar
+32. Clique em Salvar
 
 <img width="837" alt="Captura de tela 2022-09-02 143646" src="https://user-images.githubusercontent.com/48317736/188208170-e1ca5c52-790d-49ee-ae5d-4e0ba42b1706.png">
 <img width="834" alt="Captura de tela 2022-09-02 143831" src="https://user-images.githubusercontent.com/48317736/188208251-113077d0-e853-4f97-afdd-1e1c0226eb5d.png">
 
-29. Clique em IAM (Controle de acesso)
+33. Clique em IAM (Controle de acesso)
 
 <img width="613" alt="Captura de tela 2022-09-02 141518" src="https://user-images.githubusercontent.com/48317736/188210283-431db8c5-33bf-475f-a4b9-26fdb1cf749c.png">
 
-30. Clique em Adicionar Atribuição De Função
+34. Clique em Adicionar Atribuição De Função
 
 <img width="743" alt="Captura de tela 2022-09-02 141912" src="https://user-images.githubusercontent.com/48317736/188210845-07f9c28c-e1dc-4501-b455-5f43f2137b0f.png">
 
-31. Clique em Administrador de Cofre de Chaves
+35. Clique em Administrador de Cofre de Chaves
 
 <img width="743" alt="Captura de tela 2022-09-02 141912" src="https://user-images.githubusercontent.com/48317736/188210845-07f9c28c-e1dc-4501-b455-5f43f2137b0f.png">
-
-32. Selecionar membros -> Ex: Euller Henrique Bandeira Oliveira
-
-<img width="836" alt="Captura de tela 2022-09-02 142030" src="https://user-images.githubusercontent.com/48317736/188210905-b51c94bd-16b5-4682-a117-08f4e5d984f1.png">
-
-33. Clique em Examinar + atribuir
-
-<img width="527" alt="Captura de tela 2022-09-02 142517" src="https://user-images.githubusercontent.com/48317736/188211429-3851e1bd-da1c-4cec-83a3-63d02a9f6588.png">
-
-34. Clique em Examinar + atribuir
-
-<img width="452" alt="Captura de tela 2022-09-02 142532" src="https://user-images.githubusercontent.com/48317736/188211521-99031ac2-ac64-4516-a79b-2b744ea71e7b.png">
-
-35. Clique em Contribuidor
-
-<img width="737" alt="Captura de tela 2022-09-02 142349" src="https://user-images.githubusercontent.com/48317736/188212235-e8f26d28-58db-4d2e-a3d5-666f8443ed44.png">
 
 36. Selecionar membros -> Ex: Euller Henrique Bandeira Oliveira
 
-<img width="837" alt="Captura de tela 2022-09-02 142459" src="https://user-images.githubusercontent.com/48317736/188212238-3f0075df-06af-4be5-8c86-0d7bc51f66a1.png">
+<img width="836" alt="Captura de tela 2022-09-02 142030" src="https://user-images.githubusercontent.com/48317736/188210905-b51c94bd-16b5-4682-a117-08f4e5d984f1.png">
 
 37. Clique em Examinar + atribuir
 
-<img width="527" alt="Captura de tela 2022-09-02 142517" src="https://user-images.githubusercontent.com/48317736/188212244-bdb369d3-eb4b-4157-a647-a38cd8471f10.png">
+<img width="527" alt="Captura de tela 2022-09-02 142517" src="https://user-images.githubusercontent.com/48317736/188211429-3851e1bd-da1c-4cec-83a3-63d02a9f6588.png">
 
 38. Clique em Examinar + atribuir
 
+<img width="452" alt="Captura de tela 2022-09-02 142532" src="https://user-images.githubusercontent.com/48317736/188211521-99031ac2-ac64-4516-a79b-2b744ea71e7b.png">
+
+39. Clique em Contribuidor
+
+<img width="737" alt="Captura de tela 2022-09-02 142349" src="https://user-images.githubusercontent.com/48317736/188212235-e8f26d28-58db-4d2e-a3d5-666f8443ed44.png">
+
+40. Selecionar membros -> Ex: Euller Henrique Bandeira Oliveira
+
+<img width="837" alt="Captura de tela 2022-09-02 142459" src="https://user-images.githubusercontent.com/48317736/188212238-3f0075df-06af-4be5-8c86-0d7bc51f66a1.png">
+
+41. Clique em Examinar + atribuir
+
+<img width="527" alt="Captura de tela 2022-09-02 142517" src="https://user-images.githubusercontent.com/48317736/188212244-bdb369d3-eb4b-4157-a647-a38cd8471f10.png">
+
+42. Clique em Examinar + atribuir
+
 <img width="452" alt="Captura de tela 2022-09-02 142532" src="https://user-images.githubusercontent.com/48317736/188212339-11b7469d-309a-4099-848f-156554296125.png">
 
-39. Digite Azure Active Directory na barra de pesquisa e o selecione
+43. Digite Azure Active Directory na barra de pesquisa e o selecione
 
 <img width="814" alt="Captura de tela 2022-09-02 152853" src="https://user-images.githubusercontent.com/48317736/188215971-4bc0bc41-ad31-4fc5-b169-3778db840de0.png">
 
-40. Selecione Registros de Aplicativos
+44. Selecione Registros de Aplicativos
 
 <img width="116" alt="Captura de tela 2022-09-02 153136" src="https://user-images.githubusercontent.com/48317736/188216290-36a3fee1-367f-4052-85f3-1d89b3b1aa07.png">
 
-41. Clique em Novo Registro
+45. Clique em Novo Registro
 
 <img width="559" alt="Captura de tela 2022-09-02 153314" src="https://user-images.githubusercontent.com/48317736/188216625-f6ea910c-bd65-4e02-a36d-e42a8f156730.png">
 
-42 Nome -> Ex: app-key-sat-dsv
-43. Clique em Registrar
+46. Nome -> Ex: app-key-sat-dsv
+
+47. Clique em Registrar
 
 <img width="475" alt="Captura de tela 2022-09-02 153637" src="https://user-images.githubusercontent.com/48317736/188217089-e6109112-c234-4422-9713-8074da40d711.png">
 
-44. Clique em Registrar
+48. Anote o client id -> Id do Aplicativo (cliente): 51c8e300-fbcd-4658-b5a4-ad34fde06b8b
 
 <img width="837" alt="Captura de tela 2022-09-02 153703" src="https://user-images.githubusercontent.com/48317736/188217106-f83ad5ba-39e3-4be2-ba4a-421721aeb9ec.png">
 
-45. Clique em Certificados e Segredos
+49. Clique em Certificados e Segredos
 
 <img width="623" alt="Captura de tela 2022-09-02 153954" src="https://user-images.githubusercontent.com/48317736/188217704-b44437c0-17f7-4f6e-bcce-aa3f3917f069.png">
 
-46. Clique em Novo segredo de cliente
-47. Descrição -> Ex: pass-key-dsv
+50. Clique em Novo segredo de cliente
+51. Descrição -> Ex: pass-key-dsv
 
 <img width="836" alt="Captura de tela 2022-09-02 154101" src="https://user-images.githubusercontent.com/48317736/188217732-f2d81ffa-2c4d-4497-86b9-4fe12de9bfcc.png">
 
+52. Anote o client secret -> Value: mP88Q~wtOsRwDFfSy7C16BtpVbWYA9GhI5Vgeaql
 
 <img width="567" alt="Captura de tela 2022-09-02 154136" src="https://user-images.githubusercontent.com/48317736/188217913-5d0c17d8-fd3a-4b03-b07e-f8a04cb72b3a.png">
 
-49. Digite Cofres De Chaves na barra de pesquisa e o selecione
+53. Digite Cofres De Chaves na barra de pesquisa e o selecione
 
 <img width="796" alt="Captura de tela 2022-09-02 095445" src="https://user-images.githubusercontent.com/48317736/188150933-8b1f1594-ddff-4ffa-a663-9a8ff964d444.png">
 
-50.Clique em kv-demo-teste
+54.Clique em kv-demo-teste
 
 <img width="801" alt="Captura de tela 2022-09-02 154718" src="https://user-images.githubusercontent.com/48317736/188218471-9b99d5f5-8fe4-4cff-a4b3-10cc9ff5fd0f.png">
 
-51. Clique em Políticas de Acesso
-52. Clique em Adicionar Política de Acesso
+55. Clique em Políticas de Acesso
+56. Clique em Adicionar Política de Acesso
 
 <img width="1292" alt="Captura de tela 2022-09-02 112315" src="https://user-images.githubusercontent.com/48317736/188202319-a4f81b7e-1661-4023-996c-5bf9388d6eff.png">
 
-53. Configurar usando o modelo ->  Gerenciamento de Segredos e Chaves
-54. Permissões de chave -> Ex: 0
-55. Permissões do segredo -> Ex: 2 -> Obter e Listar  
-56. Permissões de certiifcado -> Ex: 0
-57. Selecionar a entidade de segurança -> app-key-sat-dsv
-58. Clieque em Adicionar
+57. Configurar usando o modelo ->  Gerenciamento de Segredos e Chaves
+58. Permissões de chave -> Ex: 0
+59. Permissões do segredo -> Ex: 2 -> Obter e Listar  
+60. Permissões de certiifcado -> Ex: 0
+61. Selecionar a entidade de segurança -> app-key-sat-dsv
+62. Clieque em Adicionar
 
 <img width="349" alt="Captura de tela 2022-09-02 155204" src="https://user-images.githubusercontent.com/48317736/188219187-acd03730-c63c-4e2f-b2bd-e26e9c1c10b2.png">
 
-59. Clique em Salvar
+63. Clique em Salvar
 
 <img width="835" alt="Captura de tela 2022-09-02 155228" src="https://user-images.githubusercontent.com/48317736/188219193-470ed9e3-325c-45ba-83b9-2c90602fe881.png">
 <img width="836" alt="Captura de tela 2022-09-02 155305" src="https://user-images.githubusercontent.com/48317736/188219198-699410a5-641c-4f90-b720-bbc8bb9e5bd3.png">
 
-60. Clique em Em Rede
+64. Clique em Em Rede
 
 <img width="605" alt="Captura de tela 2022-09-02 155600" src="https://user-images.githubusercontent.com/48317736/188219765-b8f3083f-b5c6-4806-9d53-460dbe59f9db.png">
 
-61. Clique Em Redes Selecionadas
-62. Adicione redes virtuais ou/e os ips dos usuários que poderão consumir os secrets do keyvault
+65. Clique Em Redes Selecionadas
+66. Adicione redes virtuais ou/e os ips dos usuários que poderão consumir os secrets do keyvault
 
 <img width="837" alt="Captura de tela 2022-09-02 155717" src="https://user-images.githubusercontent.com/48317736/188219772-f86ee499-5f11-4eed-aeb5-2df0ad9a1351.png">
 
-63. Clique em Segredos
+67. Clique em Segredos
 
 <img width="959" alt="Captura de tela 2022-09-02 160551" src="https://user-images.githubusercontent.com/48317736/188221149-295d6cd9-476e-4746-b0c8-aaa17275274d.png">
 
-64. Clique em Gerar/Importar
+68. Clique em Gerar/Importar
 
 <img width="487" alt="Captura de tela 2022-09-02 160717" src="https://user-images.githubusercontent.com/48317736/188221151-7b07c76d-9f52-48d2-9ed0-fd6058e0005e.png">
 
-65. Nome -> Ex: urlBd
-66. Valor Secreto -> Ex: jdbc:sqlserver://SERVER.database.windows.net:1433;database=DATABASE;
+69. Nome -> Ex: urlBd
+70. Valor Secreto -> Ex: jdbc:sqlserver://SERVER.database.windows.net:1433;database=DATABASE;
 
 <img width="487" alt="Captura de tela 2022-09-02 160717" src="https://user-images.githubusercontent.com/48317736/188221151-7b07c76d-9f52-48d2-9ed0-fd6058e0005e.png">
 
 <img width="954" alt="Captura de tela 2022-09-02 160923" src="https://user-images.githubusercontent.com/48317736/188221408-f9296877-6084-44c2-afdd-38b6688cd69e.png">
+
+
+
+
+
+
+
 
 
 
