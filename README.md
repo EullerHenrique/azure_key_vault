@@ -71,7 +71,14 @@
 25. Permissões do segredo -> Ex: 2 -> Obter e Listar
 26. Permissões de certiifcado -> Ex: 0
 27. Selecionar a entidade de segurança -> Ex: Euller Henrique Bandeira Oliveira
+28. Clieque em Adicionar
 
 <img width="1458" alt="Captura de tela 2022-09-02 112407" src="https://user-images.githubusercontent.com/48317736/188202317-036835e6-b2a0-4f46-b962-50c742f4593b.png">
 
-28. 
+28. Clique em Salvar
+
+<img width="837" alt="Captura de tela 2022-09-02 143646" src="https://user-images.githubusercontent.com/48317736/188208170-e1ca5c52-790d-49ee-ae5d-4e0ba42b1706.png">
+<img width="834" alt="Captura de tela 2022-09-02 143831" src="https://user-images.githubusercontent.com/48317736/188208251-113077d0-e853-4f97-afdd-1e1c0226eb5d.png">
+
+29.
+
