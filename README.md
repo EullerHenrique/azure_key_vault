@@ -2,8 +2,8 @@
 
 ## Sumário
 
-    - [Conceito](#conceito)
-    - [Configuração](#configuração)
+- [Conceito](#conceito)
+- [Configuração](#configuração)
 
 ## Conceito
 
