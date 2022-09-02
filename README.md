@@ -104,6 +104,26 @@
 
 <img width="452" alt="Captura de tela 2022-09-02 142532" src="https://user-images.githubusercontent.com/48317736/188211521-99031ac2-ac64-4516-a79b-2b744ea71e7b.png">
 
+35. Aperte em Contribuidor
+
+<img width="737" alt="Captura de tela 2022-09-02 142349" src="https://user-images.githubusercontent.com/48317736/188212235-e8f26d28-58db-4d2e-a3d5-666f8443ed44.png">
+
+36. Selecionar membros -> Ex: Euller Henrique Bandeira Oliveira
+
+<img width="837" alt="Captura de tela 2022-09-02 142459" src="https://user-images.githubusercontent.com/48317736/188212238-3f0075df-06af-4be5-8c86-0d7bc51f66a1.png">
+
+37. Aperte em Examinar + atribuir
+
+<img width="527" alt="Captura de tela 2022-09-02 142517" src="https://user-images.githubusercontent.com/48317736/188212244-bdb369d3-eb4b-4157-a647-a38cd8471f10.png">
+
+38. Aperte em Examinar + atribuir
+
+<img width="452" alt="Captura de tela 2022-09-02 142532" src="https://user-images.githubusercontent.com/48317736/188212339-11b7469d-309a-4099-848f-156554296125.png">
+
+
+
+
+
 
 
                                                  
