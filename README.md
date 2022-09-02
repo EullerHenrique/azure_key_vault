@@ -6,6 +6,14 @@
 - [Configuração: Key Vault](#configuração-key-vault)
 - [Configuração: Spring Boot](#configuração-spring-boot)
 
+## Tecnologias Utilizadas
+
+- Java
+- Spring Boot
+- Azure Key Vault
+- Azure Active Directory
+- Azure Resources Groups
+
 ## Conceito
 
 "O Azure Key Vault é um serviço de nuvem para armazenar e acessar segredos de maneira segura. Um segredo é qualquer coisa a qual você queira controlar rigidamente o acesso, como chaves de API, senhas, certificados ou chaves criptográficas. O serviço do Key Vault oferece suporte a dois tipos de contêineres: cofres e pools HSM (módulo de segurança de hardware) gerenciados. Os cofres oferecem suporte ao armazenamento de chaves, segredos e certificados apoiados por software e HSM. Os pools HSM gerenciados oferecem suporte apenas a chaves apoiadas por HSM.
