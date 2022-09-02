@@ -54,14 +54,23 @@
 
 <img width="1229" alt="Captura de tela 2022-09-02 112120" src="https://user-images.githubusercontent.com/48317736/188170879-12986939-ea8f-4de4-999a-62d469810217.png">
 
-<img width="1072" alt="Captura de tela 2022-09-02 112144" src="https://user-images.githubusercontent.com/48317736/188170918-6a5d1975-273e-4b3b-9de5-8cbd9475dded.png">
-
 21. Aperte em Ir para o recurso
+
+<img width="1072" alt="Captura de tela 2022-09-02 112144" src="https://user-images.githubusercontent.com/48317736/188170918-6a5d1975-273e-4b3b-9de5-8cbd9475dded.png">
 
 <img width="1459" alt="Captura de tela 2022-09-02 112211" src="https://user-images.githubusercontent.com/48317736/188171023-74ff9228-8973-4506-8828-31543f2f682b.png">
 
-22.
+22. Aperte em Políticas de Acesso
 
-23.
+23. Aperte em Adicionar Política de Acesso
 
-23.
+<img width="1458" alt="Captura de tela 2022-09-02 112407" src="https://user-images.githubusercontent.com/48317736/188202317-036835e6-b2a0-4f46-b962-50c742f4593b.png">
+
+23. Configurar usando o modelo = Gerenciamento de Segredos e Chaves
+24. Permissões de chave -> Ex: 0
+25. Permissões do segredo -> Ex: 2 -> Obter e Listar
+26. Permissões de certiifcado -> Ex: 0
+27. Selecionar a entidade de segurança -> Ex: Euller Henrique Bandeira Oliveira
+
+<img width="1292" alt="Captura de tela 2022-09-02 112315" src="https://user-images.githubusercontent.com/48317736/188202319-a4f81b7e-1661-4023-996c-5bf9388d6eff.png">
+29. 
