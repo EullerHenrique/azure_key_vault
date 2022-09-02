@@ -130,7 +130,7 @@
 
 41. Clique em Novo Registro
 
-
+<img width="559" alt="Captura de tela 2022-09-02 153314" src="https://user-images.githubusercontent.com/48317736/188216625-f6ea910c-bd65-4e02-a36d-e42a8f156730.png">
 
 
 
