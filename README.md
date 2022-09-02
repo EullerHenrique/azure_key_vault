@@ -133,12 +133,29 @@
 <img width="559" alt="Captura de tela 2022-09-02 153314" src="https://user-images.githubusercontent.com/48317736/188216625-f6ea910c-bd65-4e02-a36d-e42a8f156730.png">
 
 42 Nome -> Ex: app-key-sat-dsv
+43. Clique em Registrar
 
 <img width="475" alt="Captura de tela 2022-09-02 153637" src="https://user-images.githubusercontent.com/48317736/188217089-e6109112-c234-4422-9713-8074da40d711.png">
 
-43. Clique em Registrar
+44. Clique em Registrar
 
 <img width="837" alt="Captura de tela 2022-09-02 153703" src="https://user-images.githubusercontent.com/48317736/188217106-f83ad5ba-39e3-4be2-ba4a-421721aeb9ec.png">
+
+45. Clique em Certificados e Segredos
+
+<img width="623" alt="Captura de tela 2022-09-02 153954" src="https://user-images.githubusercontent.com/48317736/188217704-b44437c0-17f7-4f6e-bcce-aa3f3917f069.png">
+
+46. Clique em Novo segredo de cliente
+
+<img width="836" alt="Captura de tela 2022-09-02 154101" src="https://user-images.githubusercontent.com/48317736/188217732-f2d81ffa-2c4d-4497-86b9-4fe12de9bfcc.png">
+
+47.
+
+
+
+
+
+
 
 
                                                  
