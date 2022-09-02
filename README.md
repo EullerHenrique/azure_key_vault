@@ -132,8 +132,13 @@
 
 <img width="559" alt="Captura de tela 2022-09-02 153314" src="https://user-images.githubusercontent.com/48317736/188216625-f6ea910c-bd65-4e02-a36d-e42a8f156730.png">
 
+42 Nome -> Ex: app-key-sat-dsv
 
+<img width="475" alt="Captura de tela 2022-09-02 153637" src="https://user-images.githubusercontent.com/48317736/188217089-e6109112-c234-4422-9713-8074da40d711.png">
 
+43. Clique em Registrar
+
+<img width="837" alt="Captura de tela 2022-09-02 153703" src="https://user-images.githubusercontent.com/48317736/188217106-f83ad5ba-39e3-4be2-ba4a-421721aeb9ec.png">
 
 
                                                  
