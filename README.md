@@ -12,9 +12,9 @@
 
 <img width="826" alt="Captura de tela 2022-09-02 094300" src="https://user-images.githubusercontent.com/48317736/188150682-6a6750ee-909d-4c09-b502-9ff0779220c4.png">
 
-5. Selecione a assinatura (Ex: Tools Software PAYG) 
-6. Dê um nome para o grupo de recursos (Ex: RG-VAULT-DEMO)
-7. Selecione a região (Ex: (US) East US 2)
+5. Assinatura -> Ex: Tools Software PAYG
+6. Grupo de recursos -> Ex: RG-VAULT-DEMO
+7. Região -> Ex: (US) East US 2
 8. Aperte Revisar + Criar
 
 <img width="326" alt="Captura de tela 2022-09-02 100058" src="https://user-images.githubusercontent.com/48317736/188151399-542e1ba8-4c37-4ecf-af45-16b1c71b9332.png">
@@ -39,11 +39,11 @@
 
 <img width="637" alt="Captura de tela 2022-09-02 110613" src="https://user-images.githubusercontent.com/48317736/188167812-2246ffed-56b3-4978-8420-d81436fed43c.png">
 
-14. Selecione a assinatura (Ex: Tools Software PAYG) 
-15. Selecione o grupo de recursos RG-VAULT-DEMO
-16. Dê um nome para o cofre de chaves (Ex: KV-DEMO-TESTE)
-17. Selecione a região (Ex: (US) East US 2)
-18. Defina quantos dias os cofres excluídos devem ser retidos (Ex: 90)
+14. Assinatura -> Ex: Tools Software PAYG
+15. Grupo de recursos ->  RG-VAULT-DEMO
+16. Nome do cofre de chaves -> Ex: KV-DEMO-TESTE
+17. Região -> Ex: (US) East US 2
+18. Dias os cofres excluídos devem ser retidos -> Ex: 90
 19. Aperte Revisar + Criar
 
 <img width="345" alt="Captura de tela 2022-09-02 110719" src="https://user-images.githubusercontent.com/48317736/188167829-aa9d6dfa-b73e-4ac4-895f-ea760c8540f8.png">
@@ -66,11 +66,12 @@
 
 <img width="1458" alt="Captura de tela 2022-09-02 112407" src="https://user-images.githubusercontent.com/48317736/188202317-036835e6-b2a0-4f46-b962-50c742f4593b.png">
 
-23. Configurar usando o modelo = Gerenciamento de Segredos e Chaves
+23. Configurar usando o modelo ->  Gerenciamento de Segredos e Chaves
 24. Permissões de chave -> Ex: 0
 25. Permissões do segredo -> Ex: 2 -> Obter e Listar
 26. Permissões de certiifcado -> Ex: 0
 27. Selecionar a entidade de segurança -> Ex: Euller Henrique Bandeira Oliveira
 
 <img width="1292" alt="Captura de tela 2022-09-02 112315" src="https://user-images.githubusercontent.com/48317736/188202319-a4f81b7e-1661-4023-996c-5bf9388d6eff.png">
-29. 
+
+28. 
