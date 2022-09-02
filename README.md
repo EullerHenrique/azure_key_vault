@@ -35,5 +35,18 @@
 
 <img width="796" alt="Captura de tela 2022-09-02 095445" src="https://user-images.githubusercontent.com/48317736/188150933-8b1f1594-ddff-4ffa-a663-9a8ff964d444.png">
 
+13. Aperte em Criar
 
+<img width="637" alt="Captura de tela 2022-09-02 110613" src="https://user-images.githubusercontent.com/48317736/188167812-2246ffed-56b3-4978-8420-d81436fed43c.png">
 
+14. Selecione a assinatura (Ex: Tools Software PAYG) 
+15. Selecione o grupo de recursos RG-VAULT-DEMO
+16. Dê um nome para o cofre de chaves (Ex: KV-DEMO-TESTE)
+17. Selecione a região (Ex: (US) East US 2)
+18. Defina quantos dias os cofres excluídos devem ser retidos (Ex: 90)
+
+<img width="345" alt="Captura de tela 2022-09-02 110719" src="https://user-images.githubusercontent.com/48317736/188167829-aa9d6dfa-b73e-4ac4-895f-ea760c8540f8.png">
+
+18. Aperte Revisar + Criar
+
+<img width="433" alt="Captura de tela 2022-09-02 111127" src="https://user-images.githubusercontent.com/48317736/188167826-6a6ca3dc-16c8-403c-b874-00b3942b9d0c.png">
