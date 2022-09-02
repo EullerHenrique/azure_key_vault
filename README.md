@@ -56,10 +56,12 @@
 
 <img width="1072" alt="Captura de tela 2022-09-02 112144" src="https://user-images.githubusercontent.com/48317736/188170918-6a5d1975-273e-4b3b-9de5-8cbd9475dded.png">
 
+21. Aperte em Ir Para O Recurso
+
 <img width="1459" alt="Captura de tela 2022-09-02 112211" src="https://user-images.githubusercontent.com/48317736/188171023-74ff9228-8973-4506-8828-31543f2f682b.png">
 
-21.
-
 22.
+
+23.
 
 23.
