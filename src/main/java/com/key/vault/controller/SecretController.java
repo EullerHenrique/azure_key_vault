@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/v1/key-vault")
 public class SecretController {
 
-    @Value("${urlBd}")
+    @Value("${secret}")
     private String secret;
 
     @GetMapping("secret")
