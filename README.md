@@ -80,5 +80,8 @@
 <img width="837" alt="Captura de tela 2022-09-02 143646" src="https://user-images.githubusercontent.com/48317736/188208170-e1ca5c52-790d-49ee-ae5d-4e0ba42b1706.png">
 <img width="834" alt="Captura de tela 2022-09-02 143831" src="https://user-images.githubusercontent.com/48317736/188208251-113077d0-e853-4f97-afdd-1e1c0226eb5d.png">
 
-29.
+29. Aperte em IAM (Controle de acesso)
+
+<img width="613" alt="Captura de tela 2022-09-02 141518" src="https://user-images.githubusercontent.com/48317736/188210283-431db8c5-33bf-475f-a4b9-26fdb1cf749c.png">
+
 
