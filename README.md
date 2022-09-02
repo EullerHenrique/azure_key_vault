@@ -64,7 +64,7 @@
 
 23. Aperte em Adicionar Política de Acesso
 
-<img width="1458" alt="Captura de tela 2022-09-02 112407" src="https://user-images.githubusercontent.com/48317736/188202317-036835e6-b2a0-4f46-b962-50c742f4593b.png">
+<img width="1292" alt="Captura de tela 2022-09-02 112315" src="https://user-images.githubusercontent.com/48317736/188202319-a4f81b7e-1661-4023-996c-5bf9388d6eff.png">
 
 23. Configurar usando o modelo ->  Gerenciamento de Segredos e Chaves
 24. Permissões de chave -> Ex: 0
@@ -72,6 +72,6 @@
 26. Permissões de certiifcado -> Ex: 0
 27. Selecionar a entidade de segurança -> Ex: Euller Henrique Bandeira Oliveira
 
-<img width="1292" alt="Captura de tela 2022-09-02 112315" src="https://user-images.githubusercontent.com/48317736/188202319-a4f81b7e-1661-4023-996c-5bf9388d6eff.png">
+<img width="1458" alt="Captura de tela 2022-09-02 112407" src="https://user-images.githubusercontent.com/48317736/188202317-036835e6-b2a0-4f46-b962-50c742f4593b.png">
 
 28. 
