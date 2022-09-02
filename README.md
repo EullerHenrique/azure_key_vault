@@ -221,14 +221,14 @@
 71. Crie uma variável no application.properties -> Ex: secret
  secret
  
-73. Atribua o nome de uma secret criada no key vault -> Ex: urlBd
+73. Atribua o nome de uma secret criada no key vault à variável criada -> Ex: urlBd
  secret = ${urlBd}
  
 74. Crie um atributo na classe SecretController.java -> Ex: secret
 
 75. Anote o atributo criado com a anotação @Value("${secret}")
 
-76. Digite no navegador/postman localhost:8080/v1/keyvault/secret
+76. Digite no navegador/postman localhost:8080/v1/key-vault/secret
 
 77. Resultado -> jdbc:sqlserver://SERVER.database.windows.net:1433;database=DATABASE;
 
