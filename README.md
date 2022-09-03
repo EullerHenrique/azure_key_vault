@@ -294,17 +294,17 @@ Os Azure Key Vaults permitem que você separe os segredos do aplicativo. Os apli
 2. Abra a pasta azure_key_vault em uma IDE (Ex: IntelliJ IDEA) 
 3. Abra o cmd e crie as seguintes variáveis de ambiente
 
-    setx AZURE_ENDPOINT "https://kv-demo-teste.vault.azure.net/"
-    setx AZURE_TENANT_ID "6ca08334-8361-42a5-addb-6bd657abd14e"
-    setx AZURE_CLIENT_ID "51c8e300-fbcd-4658-b5a4-ad34fde06b8b"
-    setx AZURE_CLIENT_SECRET "mP88Q~wtOsRwDFfSy7C16BtpVbWYA9GhI5Vgeaql"
+    1. setx AZURE_ENDPOINT "https://kv-demo-teste.vault.azure.net/"
+    2. setx AZURE_TENANT_ID "6ca08334-8361-42a5-addb-6bd657abd14e"
+    3. setx AZURE_CLIENT_ID "51c8e300-fbcd-4658-b5a4-ad34fde06b8b"
+    4. setx AZURE_CLIENT_SECRET "mP88Q~wtOsRwDFfSy7C16BtpVbWYA9GhI5Vgeaql"
 
 4. Insira as varíaveis de ambiente criadas em suas respectivas variáveis no application.properties
     
-    spring.cloud.azure.keyvault.secret.property-sources[0].endpoint=${AZURE_ENDPOINT}
-    spring.cloud.azure.keyvault.secret.property-sources[0].profile.tenant-id=${AZURE_TENANT_ID}
-    spring.cloud.azure.keyvault.secret.property-sources[0].credential.client-id=${AZURE_CLIENT_ID}
-    spring.cloud.azure.keyvault.secret.property-sources[0].credential.client-secret=${AZURE_CLIENT_SECRET}
+    1. spring.cloud.azure.keyvault.secret.property-sources[0].endpoint=${AZURE_ENDPOINT}
+    2. spring.cloud.azure.keyvault.secret.property-sources[0].profile.tenant-id=${AZURE_TENANT_ID}
+    3. spring.cloud.azure.keyvault.secret.property-sources[0].credential.client-id=${AZURE_CLIENT_ID}
+    4. spring.cloud.azure.keyvault.secret.property-sources[0].credential.client-secret=${AZURE_CLIENT_SECRET}
 
 5. Crie uma variável no application.properties -> Ex: secret
 6. Atribua o nome de uma secret criada no key vault à variável criada -> Ex:  secret = ${urlBd}
