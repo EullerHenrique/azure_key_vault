@@ -292,21 +292,28 @@ Os Azure Key Vaults permitem que você separe os segredos do aplicativo. Os apli
 
 1. Clone o repósitorio
 2. Abra a pasta azure_key_vault em uma IDE (Ex: IntelliJ IDEA) 
-3. Insira as seguintes informações no arquivo application.properties
-    
-    1. Endpoint: https://kv-demo-teste.vault.azure.net/
-    2. Tecent id: 6ca08334-8361-42a5-addb-6bd657abd14e
-    3. Client id: 51c8e300-fbcd-4658-b5a4-ad34fde06b8b
-    4. Client Secret: mP88Q~wtOsRwDFfSy7C16BtpVbWYA9GhI5Vgeaql
+3. Abra o cmd e crie as seguintes variáveis de ambiente
 
-4. Crie uma variável no application.properties -> Ex: secret
-5. Atribua o nome de uma secret criada no key vault à variável criada -> Ex:  secret = ${urlBd}
-6. Crie um atributo na classe SecretController.java -> Ex: secret
-7. Anote o atributo criado com a anotação @Value("${secret}")
-8. Navegue pela IDE até KeyVaultApplication
-9. Aperte o botão play localizado ao lado de "public class KeyVaultApplicationnApplication"
-10. Digite no navegador/postman localhost:8080/v1/key-vault/secret
-11. Resultado -> jdbc:sqlserver://SERVER.database.windows.net:1433;database=DATABASE;
+    setx AZURE_ENDPOINT "https://kv-demo-teste.vault.azure.net/"
+    setx AZURE_TENANT_ID "6ca08334-8361-42a5-addb-6bd657abd14e"
+    setx AZURE_CLIENT_ID "51c8e300-fbcd-4658-b5a4-ad34fde06b8b"
+    setx AZURE_CLIENT_SECRET "mP88Q~wtOsRwDFfSy7C16BtpVbWYA9GhI5Vgeaql"
+
+4. Insira as varíaveis de ambiente criadas em suas respectivas variáveis no application.properties
+    
+    spring.cloud.azure.keyvault.secret.property-sources[0].endpoint=${AZURE_ENDPOINT}
+    spring.cloud.azure.keyvault.secret.property-sources[0].profile.tenant-id=${AZURE_TENANT_ID}
+    spring.cloud.azure.keyvault.secret.property-sources[0].credential.client-id=${AZURE_CLIENT_ID}
+    spring.cloud.azure.keyvault.secret.property-sources[0].credential.client-secret=${AZURE_CLIENT_SECRET}
+
+5. Crie uma variável no application.properties -> Ex: secret
+6. Atribua o nome de uma secret criada no key vault à variável criada -> Ex:  secret = ${urlBd}
+7. Crie um atributo na classe SecretController.java -> Ex: secret
+8. Anote o atributo criado com a anotação @Value("${secret}")
+9. Navegue pela IDE até KeyVaultApplication
+10. Aperte o botão play localizado ao lado de "public class KeyVaultApplicationnApplication"
+11. Digite no navegador/postman localhost:8080/v1/key-vault/secret
+12. Resultado -> jdbc:sqlserver://SERVER.database.windows.net:1433;database=DATABASE;
 
 
 
