@@ -2,8 +2,8 @@
 
 ## Sumário
 
-- [Conceito](#conceito)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Conceito](#conceito)
 - [Configuração: Key Vault](#configuração-key-vault)
 - [Configuração: Spring Boot](#configuração-spring-boot)
 
